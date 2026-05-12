@@ -2,21 +2,17 @@
 
 ## Descripción
 
-Funcionalidades sitio web http://cestore.ces.com.uy/adminces/.
+A continuacion las principales funcionalidades del sitio web http://cestore.ces.com.uy/adminces/.
 
 ---
 
 ## Funcionalidades 
+- Registro cuenta administrador
+- Actualizacion de datos de cuenta administrador
+- Login
+- Logout
+- Reseteo de clave
+- Alta de usuario
+- Baja de usuario
+- Visualizar listado de usuarios
 ---
-- Iniciar sesión Administrador: Permite que los administradores ingresen al sistema mediante credenciales válidas.
-  ### Datos requeridos
-- Email
-- Contraseña
----  
-- Crear cuenta Administrador: Permite crear una nueva cuenta con Rol Administrador de usuario en el sistema.
-  ### Datos requeridos
-- Nombre
-- Apellido
-- Email
-- País de nacimiento
-- Contraseña
